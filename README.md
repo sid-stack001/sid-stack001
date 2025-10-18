@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sid-stack001
+# 👋 Hi, I’m Siddharth
 
 ## About Me
 
