@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Siddharth
+# Hi, I’m Siddharth
 
 ## About Me
 
@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, research papers, development of new tools, and some quirky projects.
 - 📫 How to reach me: siddharthv643@gmail.com.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I was almost accidentally on track to become a pilot.
+- ⚡ Fun fact: I was accidentally on track to become a pilot.
 
 ## Connect with Me
 
