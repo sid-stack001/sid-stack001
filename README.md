@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=Siddharth%20Verma&fontSize=50&fontColor=050a0e&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20Vision%20Systems&descAlignY=55&descColor=050a0e" />
+# SIDDHARTH VERMA
+### Software Engineer · AI Researcher · Vision Systems
 
 </div>
 
@@ -92,16 +93,27 @@ class SiddharthVerma:
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sid-stack001&show_icons=true&hide_border=true&bg_color=020608&title_color=00ff88&icon_color=00ff88&text_color=b0d4c0&count_private=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-stack001&layout=compact&hide_border=true&bg_color=020608&title_color=00ff88&text_color=b0d4c0&langs_count=6&theme=dark"/>
+[![LeetCode](https://leetcard.jacoblin.cool/siddharthv643?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg_color=020608&text_color=b0d4c0&primary_color=00ff88)](https://leetcode.com/u/siddharthv643)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sid-stack001&theme=dark&hide_border=true&background=020608&stroke=00ff88&ring=00ff88&fire=ffb300&currStreakLabel=00ff88&sideLabels=b0d4c0&dates=3a6b50&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sid-stack001&bg_color=020608&color=00ff88&line=00ff88&point=ffb300&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sid-stack001/sid-stack001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sid-stack001/sid-stack001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sid-stack001/sid-stack001/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -136,6 +148,6 @@ class SiddharthVerma:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=050a0e"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sid-stack001&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
