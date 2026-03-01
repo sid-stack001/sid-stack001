@@ -29,6 +29,7 @@ class SiddharthVerma:
         return {
             "research"  : "DRDO-IRDE Grant DFTM/034 — Multi-weather Image Restoration",
             "published" : ["IEEE PuneCon 2025", "SmartCom 2026 (accepted)"],
+            "building"  : "Sarvadrushti — pre-incubated @ VJ HUB",
             "leading"   : "AIML Lead, Google Developer Groups on Campus",
         }
 
@@ -93,14 +94,14 @@ class SiddharthVerma:
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sid-stack001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020608&title_color=00ff88&icon_color=00ff88&text_color=b0d4c0&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-stack001&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020608&title_color=00ff88&text_color=b0d4c0&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sid-stack001&show_icons=true&hide_border=true&bg_color=020608&title_color=00ff88&icon_color=00ff88&text_color=b0d4c0&count_private=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-stack001&layout=compact&hide_border=true&bg_color=020608&title_color=00ff88&text_color=b0d4c0&langs_count=6&theme=dark"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sid-stack001&theme=dark&hide_border=true&background=020608&stroke=00ff88&ring=00ff88&fire=ffb300&currStreakLabel=00ff88&sideLabels=b0d4c0&dates=3a6b50&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=sid-stack001&theme=dark&hide_border=true&background=020608&stroke=00ff88&ring=00ff88&fire=ffb300&currStreakLabel=00ff88&sideLabels=b0d4c0&dates=3a6b50&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
