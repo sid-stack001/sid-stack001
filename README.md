@@ -29,7 +29,6 @@ class SiddharthVerma:
         return {
             "research"  : "DRDO-IRDE Grant DFTM/034 — Multi-weather Image Restoration",
             "published" : ["IEEE PuneCon 2025", "SmartCom 2026 (accepted)"],
-            "building"  : "Sarvadrushti — pre-incubated @ VJ HUB",
             "leading"   : "AIML Lead, Google Developer Groups on Campus",
         }
 
