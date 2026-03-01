@@ -1,11 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-  <path d="M0,60 C150,100 350,0 600,60 C850,120 1050,20 1200,60 L1200,120 L0,120 Z" fill="#00ff88"/>
-</svg>
-
-# SIDDHARTH VERMA
-### Software Engineer · AI Researcher · Vision Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=Siddharth%20Verma&fontSize=50&fontColor=050a0e&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20Vision%20Systems&descAlignY=55&descColor=050a0e" />
 
 </div>
 
@@ -154,8 +149,6 @@ class SiddharthVerma:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sid-stack001&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-  <path d="M0,60 C150,20 350,120 600,60 C850,0 1050,100 1200,60 L1200,0 L0,0 Z" fill="#00ff88"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer"/>
 
 </div>
