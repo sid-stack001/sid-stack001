@@ -41,25 +41,9 @@ class SiddharthVerma:
 <div align="center">
 
 
----
-
-<div align="center">
-
 ## Stats
 
 [![LeetCode](https://leetcard.jacoblin.cool/siddharthv643?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg_color=020608&text_color=b0d4c0&primary_color=00ff88)](https://leetcode.com/u/siddharthv643)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sid-stack001&bg_color=020608&color=00ff88&line=00ff88&point=ffb300&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sid-stack001/sid-stack001/output/github-contribution-grid-snake-dark.svg">
@@ -69,12 +53,10 @@ class SiddharthVerma:
 
 </div>
 
----
+
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sid-stack001&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer"/>
 
 </div>
